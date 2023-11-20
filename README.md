@@ -1,4 +1,4 @@
-# Text Emotion Recognition using BiLSTM layers 
+# Text Emotion Recognition using RNN Neural Network model 
 
 ## Overview
 This project is designed to classify textual data into six emotions: joy, sadness, anger, hate, love, and surprise. Utilizing a pre-trained Word2Vec model and BiLSTM layers, the neural network offers sophisticated emotion recognition capabilities.
