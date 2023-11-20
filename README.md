@@ -23,12 +23,13 @@ This project requires the following libraries:
 - gensim
 - nltk
 - matplotlib
+- contractions
 
 ## Installation
 ```bash
 git clone https://github.com/thejus03/Text-Emotion-Neural.git
 cd TER
-pip install pandas tensorflow numpy scikit-learn gensim nltk matplotlib
+pip install pandas tensorflow numpy scikit-learn gensim nltk matplotlib contractions
 ```
 
 ## Downloading the Pre-trained Word2Vec Model
